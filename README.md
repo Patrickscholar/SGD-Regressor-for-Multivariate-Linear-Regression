@@ -14,7 +14,8 @@ To write a program to predict the price of the house and number of occupants in 
 4. 
 
 ## Program:
-<img width="704" alt="Screenshot 2024-11-15 at 8 53 56 AM" src="https://github.com/user-attachments/assets/673f033b-4d61-4ff2-bc00-b996198d5a04">
+<img width="704" alt="Screenshot 2024-11-15 at 8 53 56 AM" src="https://github.com/user-attachments/assets/08ae2118-c010-4dfa-b82f-50f10a1aad9c">
+
 
 
 /*
