@@ -25,7 +25,7 @@ Developed by: V.Patrick alex emmanuel
 
 RegisterNumber:  24900019
 */
-```
+
 
 ## Output:
 <img width="312" alt="Screenshot 2024-11-15 at 8 54 40 AM" src="https://github.com/user-attachments/assets/90994a26-ed33-4650-8432-bd4cec0b58a5">
